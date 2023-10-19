@@ -1,6 +1,6 @@
 ---
 theme: apple-basic
-download: true
+download: false
 highlighter: shiki
 lineNumbers: false
 info: |
